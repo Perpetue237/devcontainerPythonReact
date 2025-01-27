@@ -44,7 +44,7 @@ This repository offers a development environment set up with Docker, specificall
 - [Visual Studio Code](https://code.visualstudio.com/) along with the [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers).
 
 ## Additional Resources
-I will soon publish a detailed video on my [YouTube channel](www.youtube.com/@DebuggingwithKTiPs) explaining how to use this repository and the concepts behind it. [Stay tuned](https://www.youtube.com/channel/UCc12pd-7Kyg73mU4cbW-mzg?sub_confirmation=1) for the release!
+I will soon publish a detailed video on my YouTube channel explaining how to use this repository and the concepts behind it. [Stay tuned](https://www.youtube.com/channel/UCc12pd-7Kyg73mU4cbW-mzg?sub_confirmation=1) for the release!
 ## License
 
 This project is licensed under the Apache License 2.0. For more details, see the [LICENSE](LICENSE) file.
